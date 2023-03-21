@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.fetch-data {
+  display: inline-block;
+  background-color: #000000;
+  color: white;
+  padding: 12px 24px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+  margin-right: 100px;
+  margin-bottom: 10px;
+}
+
+.fetch-data:hover {
+  background-color: #4d544d;
+}
+
+.headBackground {
+  color: yellow;
+  background-color: rgb(79, 77, 77);
+}
